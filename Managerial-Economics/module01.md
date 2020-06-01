@@ -1,6 +1,4 @@
-# Managerial Economics
-
-## Module 1
+# Demand, Supply, Equilibrium
 
 The module on Essential Microeconomics introduces the supply and demand model in a competitive market. Supply and demand are the main forces that allocate scarce resources in market economies. The intersection of the supply and demand curves determine the market clearing price that consumers pay and the quantity they will buy; they also determine the quantity that firms will produce and the price the firm will receive. In short, the price movements determined by excess demand or excess supply are the "invisible hand" that guide the economy.
 

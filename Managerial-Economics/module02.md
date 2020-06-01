@@ -1,6 +1,4 @@
-# Managerial Economics
-
-## Module 2
+# Macroeconomic KPIs: GDP, Inflation, Unemployment
 
 This module on the Macroeconomy provides an overview of the United States economy. The U.S. is a large, open, diversified and productive economy that is in the midst of a global pandemic. This will be evident in the data you will use in this course. Our focus will be on forces that drive the macroeconomy and key performance indicators (KPIs), including GDP, Inflation and Unemployment.
 
