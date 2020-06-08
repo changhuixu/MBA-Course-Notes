@@ -64,6 +64,7 @@ Profit is maximized when P = MC, at a point where MC is increasing.
 
   - Perfect competition: breakeven is the quantity of production at which the price, average revenue, and marginal revenue are equal to average total cost.
   - Quantity at which TR = TC.
+  - For a firm in a competitive market, the price is always equal to: marginal revenue. Therefore, in perfectly competitive markets, MR = MC also means that P = MC.
 
 - **Shutdown point**: quantity produced at which the average revenue is less than the average variable cost.
   - Quantity at which AR < AVC.
@@ -93,6 +94,12 @@ Examples of economics of scale: distribution system (e.g., Wal-Mart), shipping (
 - Long run: The firm is able to exploit economies of scale and earn a positive profit. If:
   - Perfectly competitive market: Competitors will enter and profit is driven to zero.
   - Imperfectly competitive market: Firm can earn profit if competitors do not enter the market. We will discuss imperfect competition later.
+
+What will happen to the number of firms in the market and the price of this good when this industry returns to long-run equilibrium?
+
+- the number of firms decreases; price increases
+
+- When firms are losing money, some of those firms will exit the industry in the long run. This decreases supply in the market, which increases price.
 
 ## Productivity
 
@@ -126,3 +133,41 @@ Example: Productivity of Labor
 - Firm shuts down in short run if TR does not cover variable cost in full.
 - Production function: defines relationship between TP and inputs. AP and MP measure firm productivity.
 - Increases in productivity reduce business costs & increase profit.
+
+If shark repellent is produced in a perfectly competitive market and its long-run supply curve is horizontal, which of the following must be true?
+
+- When more firms enter this market, input prices don’t change.
+- A horizontal curve is perfectly elastic, and a perfectly elastic long-run supply curve indicates a constant cost industry. When more firms enter a constant-cost industry, input prices aren't affected.
+
+Which of the following happens in the long run when demand increases in a perfectly competitive constant cost industry?
+
+- Price doesn’t change.
+- There is no long-run effect of a change in demand on the market price in a perfectly competitive constant cost industry. This is why the long-run supply curve in this kind of industry is perfectly elastic.
+- In the short run, firm's make economic profits. But in the long run, firms in perfectly competitive markets earn zero economic profits.
+- Perfectly competitive firms are always allocatively efficient.
+- Market quantity increases in the long run when demand increases.
+
+Washi tape is produced in a perfectly competitive market. If the long-run supply curve for washi tape is upward sloping, which of the following is true?
+
+- The long-run supply curve is downward sloping for an decreasing cost industry, not upward sloping.
+- The long-run supply curve is upward sloping for increasing cost industries.
+
+Typical firms in a perfectly competitive decreasing cost industry are currently earning economic profits.
+What will happen to the number of firms, the market price, and each firm's marginal cost in the long run?
+
+- Firms enter the market when firms earn economic profits, not exit the market. Also, market price and marginal cost only increase in the long run for an increasing cost industry, not a decreasing cost industry.
+- The number of firms will increase; the market price will decrease; marginal cost will decrease.
+  When firms earn economic profits, this attracts more firms to this industry. If an industry is a decreasing cost industry, the entry of new firms drives costs down. As a result, the market price decreases in the long run.
+
+Allocative efficiency occurs when a firm produces the quantity where marginal cost equals marginal revenue, and firms in perfectly competitive markets are always allocatively efficient. When perfectly competitive firms produce at the lowest possible cost per unit, which is sometimes called productive efficiency, they are earning zero economic profits and no other firms have an incentive to enter or exit this market, which occurs in long-run equilibrium.
+
+Allocative efficiency occurs when a firm produces the quantity where marginal benefit (MB) equals marginal cost (MC). A perfectly competitive firm always produces the allocatively efficient quantity because the good's price reflects its marginal benefit, and a perfectly competitive firm always produces where P=MR=MC. Productive efficiency occurs when a firm produces the quantity where average total cost is minimized, and a perfectly competitive firm produces this quantity in the long run.
+
+Allocative efficiency occurs when a firm produces the quantity where marginal cost equals marginal revenue, and firms in perfectly competitive markets are always allocatively efficient. When perfectly competitive firms produce at the lowest possible cost per unit, which is sometimes called productive efficiency, they are earning zero economic profits and no other firms have an incentive to enter or exit this market, which occurs in long-run equilibrium.
+
+The market supply shifts right if firms enter the market. However, if typical firms in a perfectly competitive market are both allocatively and productively efficient, there is no incentive for other firms to enter this market. If firms are productively efficient, increasing or decreasing output will increase their average total costs.
+
+Meliah's Maps produces road maps in a perfectly competitive market. What is true about the quantity of maps this firm produces in the long run?
+
+- Marginal benefit equals marginal cost and the average total cost is minimized.
+- A perfectly competitive firm is both allocatively efficient and productively efficient in the long run. A firm is allocatively efficient if it produces the quantity where marginal benefit equals marginal cost, and it is productively efficient if it produces the quantity where average total cost is minimized.
