@@ -4,3 +4,4 @@
 - [02 Macroeconomic KPIs: GDP, Inflation, Unemployment](./module02)
 - [03 The Firm](./module03)
 - [04 Trade and Trade Wars](./module04)
+- [05 Monetary Policy and the Money Supply Process](./module05)

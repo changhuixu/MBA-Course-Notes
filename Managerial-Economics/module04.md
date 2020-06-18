@@ -163,3 +163,25 @@ Thus a country with a trade deficit (NX < 0) is a net borrower (S < I).
 
 - Economic damage: lower GDP, higher prices; contributed to the Great Depression & market crash.
 - Political damage.
+
+## Production Possibility Frontier (PPF)
+
+In business analysis, the **production possibility frontier** (_PPF_) is a curve that illustrates the variations in the amounts that can be produced of two products if both depend upon the same finite resource for their manufacture.
+
+PPF also plays a crucial role in economics. It can be used to demonstrate the point that any nation's economy reaches its greatest level of efficiency when it produces only what it is best qualified to produce and trades with other nations for the rest of what it needs.
+
+The PPF is also referred to as the production possibility curve or the transformation curve.
+
+### Understanding the PPF
+
+In macroeconomics, the PPF is the point at which a country's economy is most efficiently producing its various goods and services and, therefore, allocating its resources in the best way possible.
+
+- The PPF demonstrates that the production of one commodity may increase only if the production of the other commodity decreases.
+- The PPF is a decision-making tool for managers deciding on the optimum product mix for the company.
+- If the economy is producing more or less of the quantities indicated by the PPF, resources are being managed inefficiently and the nation's economic stability will deteriorate.
+
+### Trade, Comparative Advantage, and Absolute Advantage
+
+An economy may be able to produce for itself all of the goods and services it needs to function using the PPF as a guide. However, this may actually lead to an overall inefficient allocation of resources and hinder future growth when the benefits of trade are considered.
+
+Through specialization, a country can concentrate on the production of just a few things that it can do best, rather than trying to do everything on its own.
