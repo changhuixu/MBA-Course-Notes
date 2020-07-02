@@ -1,8 +1,9 @@
 # Managerial Economics
 
-- [01 Demand, Supply, Equilibrium](./module01)
-- [02 Macroeconomic KPIs: GDP, Inflation, Unemployment](./module02)
-- [03 The Firm](./module03)
-- [04 Trade and Trade Wars](./module04)
-- [05 Monetary Policy and the Money Supply Process](./module05)
-- [06 International Macroeconomic Environment of the Firm](./module06)
+- [01 Demand, Supply, Equilibrium](./module01.md)
+- [02 Macroeconomic KPIs: GDP, Inflation, Unemployment](./module02.md)
+- [03 The Firm](./module03.md)
+- [04 Trade and Trade Wars](./module04.md)
+- [05 Monetary Policy and the Money Supply Process](./module05.md)
+- [06 International Macroeconomic Environment of the Firm](./module06.md)
+- [07 Fiscal Policy](./module07.md)

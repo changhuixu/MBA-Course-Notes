@@ -43,8 +43,8 @@ Money has three main functions:
 
       				m = 1/(reserve requirement)
 
-  - If reserve requirement is 5%  money multiplier is 20 times
-  - If reserve requirement is 10% money multiplier is 10 times
+  - If reserve requirement is 5% -> money multiplier is 20 times
+  - If reserve requirement is 10% -> money multiplier is 10 times
 
 The amount of money in the banking system is a function of the reserve requirement, which is the percentage of deposited funds that a bank must keep on hand. As demand deposits are created and a portion of these funds are lent by banks, money is created. The effect of the reserve requirement on the money supply is summarized with the money multiplier, which is the inverse of the reserve requirement.
 
@@ -429,3 +429,15 @@ Inflation remains very low. Policy was being “unwound,” but is now being agg
 - “Near monies” are concerning.
 - Central banks are major players in the money supply process, but confidence by individuals & banks is crucial.
 - On-going financial innovation is important. Central banks did not control “non-banks” directly, but changed rules & purchases (e.g., MBS).
+
+A recession is A period during which aggregate output (GDP) declines for at least two quarters.
+
+Financial systems and security markets have regulations in order to:
+
+- Prevent loss of confidence and contagion.
+- Promote safety and soundness of financial firms.
+- Protect consumers who may be poorly informed.
+
+Which of the following actions taken by a central bank is expansionary? Purchases of government bonds
+
+Which action is a Central Bank most likely to engage in: Lender of last resort.
