@@ -7,3 +7,4 @@
 - [05 Monetary Policy and the Money Supply Process](./module05.md)
 - [06 International Macroeconomic Environment of the Firm](./module06.md)
 - [07 Fiscal Policy](./module07.md)
+- [08 The Firm & Market Structures](./module08.md)
