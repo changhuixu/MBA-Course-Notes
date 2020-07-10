@@ -180,3 +180,21 @@ What is better for the firms to do - cooperate or not?
   - good for the firm because it make always positive profits
   - bad for the society because it reduces the welfare of the consumers as they consume less & pay a higher price than competitive markets
 - Duopoly, (two monopolists) do better by colluding. The Cournot-Nash non-cooperative solution (equilibrium) doesn’t give the firms optimal profits, but collusion does.
+
+marginal cost and average cost meet at the minimum of the AC curve. That is not a coincidence, AC falls when MC is below it, and AC rises when MC is above.
+
+the demand curve is "tangent" to the average cost curve at (Q_1, P_1)
+
+In the long run, all costs are variable. In the long run, firms will enter until their total costs are offset be their total revenue. This isn't possible in the long run because of fixed costs, but in the long run we don't worry about this.
+
+In monopolistic competition we have free entry, so in the long run firm enter and compete out our profit. A monopoly market structure does not have this free entry, so the long run and short run look the same.
+
+## Quizes
+
+A market structure characterized by many sellers with each having some pricing power and product differentiation is best described as: monopolistic competition
+
+In an industry consisting of three companies that are small-scale manufacturers of an easily replicable product unprotected by brand recognition or patents, the most representative model of company behavior is: perfect competition
+
+A company doing business in a monopolistically competitive market will most likely maximize proﬁts when its output quantity is set such that: marginal revenue equals marginal cost.
+
+Oligopolistic pricing strategy most likely results in a demand curve that is: kinked

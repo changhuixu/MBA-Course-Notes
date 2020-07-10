@@ -8,3 +8,4 @@
 - [06 International Macroeconomic Environment of the Firm](./module06.md)
 - [07 Fiscal Policy](./module07.md)
 - [08 The Firm & Market Structures](./module08.md)
+- [09 Strategic Thinking](./module09.md)
