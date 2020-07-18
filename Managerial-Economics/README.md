@@ -9,3 +9,4 @@
 - [07 Fiscal Policy](./module07.md)
 - [08 The Firm & Market Structures](./module08.md)
 - [09 Strategic Thinking](./module09.md)
+- [10 Antitrust and Multilateral Institutions](./module10.md)
