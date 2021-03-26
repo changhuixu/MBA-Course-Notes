@@ -5,3 +5,5 @@
 1. [External and Internal Analysis](./03-external-and-internal-analysis.md)
 1. [Five Forces](./04-five-forces.md)
 1. [Corporate Strategy](./05-corporate-strategy.md)
+1. [International Strategy](./06-international-strategy.md)
+1. [Strategy Execution](./07-strategy-execution.md)
