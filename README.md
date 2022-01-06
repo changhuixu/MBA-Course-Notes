@@ -6,3 +6,4 @@ Notes for my MBA courses
 - [Managerial Economics](./Managerial-Economics)
 - [Foundations in Strategy](./Foundations-in-Strategy)
 - [Leadership and Professional Development](./Leadership-and-Professional-Development)
+- [Collaborating in Virtual Teams](./Collaborating-in-Virtual-Teams)
