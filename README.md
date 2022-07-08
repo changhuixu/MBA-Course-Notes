@@ -7,3 +7,4 @@ Notes for my MBA courses
 - [Foundations in Strategy](./Foundations-in-Strategy)
 - [Leadership and Professional Development](./Leadership-and-Professional-Development)
 - [Collaborating in Virtual Teams](./Collaborating-in-Virtual-Teams)
+- [Project Management](./Project-Management)
